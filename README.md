@@ -1,6 +1,6 @@
 # Preparing for CKAD
 
-Resources to prepare for the CKAD Exam and Kubernetes App Development in General.
+Resources to help prepare for the CKAD Exam and Kubernetes App Development in General.
 
 # Courses
 - [A Cloud Guru](https://learn.acloud.guru/course/certified-kubernetes-application-developer/overview)
